@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+#checkmark{
+    color:lime;
+}
+#arrow{
+    color:#3b82f6 ;
+}
